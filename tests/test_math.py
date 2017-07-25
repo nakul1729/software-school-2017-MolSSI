@@ -15,3 +15,7 @@ def test_mult():
     assert ss.math.mult(2, 5) == 10
 
 
+def test_div():
+    assert ss.math.div(10, 2) == 5
+    assert ss.math.div(2, 10) == 0.2
+

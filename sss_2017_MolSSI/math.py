@@ -15,3 +15,10 @@ def mult(a, b):
      Function that adds two arguments
      """
      return a * b
+
+
+def div(a, b):
+     """
+     Function that adds two arguments
+     """
+     return a / b
