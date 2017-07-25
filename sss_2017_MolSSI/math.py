@@ -17,8 +17,8 @@ def mult(a, b):
      return a * b
 
 
-def div(a, b):
+def subs(a, b):
      """
-     Function that adds two arguments
+     Function that substracts two arguments
      """
-     return a / b
+     return a - b
